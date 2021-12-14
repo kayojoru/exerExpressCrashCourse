@@ -1,0 +1,30 @@
+{
+  "name": "exerexpresscrashcourse",
+  "version": "1.0.0",
+  "description": "## Summary of Steps to Complete (See corresponding sections below.) - [ ] Fork this assignment so you can work on your own copy. - [ ] Build the files described in the tutorial - [ ] Push your changes back to your GitHub repository. - [ ] Turn in a link to your GitHub repository for this assignment in Canvas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayojoru/exerExpressCrashCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayojoru/exerExpressCrashCourse/issues"
+  },
+  "homepage": "https://github.com/kayojoru/exerExpressCrashCourse#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.2",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,10 +1,10 @@
 # Express JS Crash Course
 
 ## Summary of Steps to Complete (See corresponding sections below.)
-- [ ] Fork this assignment so you can work on your own copy.
-- [ ] Build the files described in the tutorial
-- [ ] Push your changes back to your GitHub repository.
-- [ ] Turn in a link to your GitHub repository for this assignment in Canvas.
+- [x] Fork this assignment so you can work on your own copy.
+- [x] Build the files described in the tutorial
+- [x] Push your changes back to your GitHub repository.
+- [x] Turn in a link to your GitHub repository for this assignment in Canvas.
 
 ## Fork this assignment
 
